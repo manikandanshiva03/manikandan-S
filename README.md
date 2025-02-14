@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manikandan S</h1>
 <h3 align="center">A passionate certified AWS Solutions Architect</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandanshiva03&label=Profile%20views&color=0e75b6&style=flat" alt="manikandanshiva03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manikandanshiva03" alt="manikandanshiva03" /></a> </p>
-
 - 📫 How to reach me **manikandanshiva03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
